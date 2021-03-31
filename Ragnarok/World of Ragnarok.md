@@ -1,0 +1,5 @@
+# World of Ragnarok
+
+An ancient world constructed by the [[Elder Things]] for what is an unknown purpose to the [[Inhabitants of Ragnarok]]. The planet is a typical Earth-like world with oceans and standard gravity and breathable air. The surface is littered with thousands of [[gigantic pillars]] that each reach a kilometer into the sky and go all the down to the planets core. Deep inside is a vast [[power source]] that is constructed within a [[non-euclidian space]] allowing for incredible energy density.
+
+The [[Arianhod Sorority]], the newly founded and last known surviving chapter of the [[Perennial Sorority]] arrived on **Ragnarok** almost 1000 years ago after fleeing an attack by the [[Ancient Enemy]] that destroyed their home world of [[Annwn]]. The [[Arianhod Sorority]] seeks to understand the secrets of the planet in order to use it as a weapon against the [[Ancient Enemy]].

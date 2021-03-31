@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "81aebf77ec869a1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "890f3c286f271ce5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Perennian.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f90ea28a1da7ecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb321079fe660b63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08424e0cad5caa9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "deff54ba1996b8c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "052ff73dea73397a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3719be2996a857ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ad333fa6da39081",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Perennian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07d907d07a055d24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Perennian.md",
+    "World of Ragnarok.md",
+    "Inhabitants of Ragnarok.md",
+    "Kira Cordelia.md",
+    "Kira & Korek Conversation.md",
+    "Human.md",
+    "The Ephemeris.md",
+    "Untitled.md",
+    "inhabitants.md",
+    "NeverNote.md"
+  ]
+}
