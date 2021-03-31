@@ -7,7 +7,7 @@ Perennians are all approximately six-feet three-inches tall. They keep a youthfu
 Each Perennian is of a lineage, when a Perennian is lost, dies, or exiled, she is cloned and a repository of memories from their lineage known as an [[Almanac]] is passed on to the new custodian of the lineage.
 
 ### Fashion and Clothing
-Perennians are typically seen wearing form fitting conservative clothing, revealing very little skin. Their clothing is made from a nano-fabric which adjusts with temperature to maintain a comfortable internal temperature in a wide range of environments, as such they are usually seen wearing the same or similar clothing in almost any environment.
+Perennians are typically seen wearing form fitting conservative clothing, revealing very little skin. Their clothing is made from a nano-fabric which adjusts with temperature to maintain a comfortable internal temperature in a wide range of climates.
 
 ## Social Structure
 Perennians generally adhere to a flat social structure. Most decisions are made by consensus and during times of crisis temporary leadership is appointed and given only the necessary authority to carry out their directive.
