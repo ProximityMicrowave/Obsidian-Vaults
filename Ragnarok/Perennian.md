@@ -4,7 +4,7 @@ The Perennian Sisterhood, sometimes just called Perennian's for short, is a race
 ## Appearance
 Perennians are all approximately six-feet three-inches tall. They keep a youthful appearance typically not appearing older than thirty. They are renowned throughout the galaxy for their beauty. Most have white hair due to age, however their natural hair color lingers for an extremely long time and though they of course have the technology to color their hair, colored hair is a strong indicator of youth, while white hair is considered dignified and a sign of true adulthood.
 
-Each Perennian is of a lineage, when a Perennian is lost, dies, or exiled, she is cloned and a repository of memories from their lineage known as an [[Almanac]] is passed on to the new custodian of the lineage.
+Each Perennian is of a lineage, when a Perennian is lost, dies, or exiled, she is cloned and a repository of memories from their lineage known as an [Almanac](Perennian##Almanac) is passed on to the new custodian of the lineage.
 
 ### Fashion and Clothing
 Perennians are typically seen wearing form fitting conservative clothing, revealing very little skin. Their clothing is made from a nano-fabric which adjusts with temperature to maintain a comfortable internal temperature in a wide range of climates.
@@ -21,7 +21,7 @@ Perennians are extremely long lived as a species, typically only dying due to ex
 Perennians are an egalitarian post-scarcity society with no use for money. Large scale projects which require vast resources are voted on by the community or directed by emergency leadership.
 
 ## Religion
-Perennians as a culture hold strongly to values of rational atheism. The perceive the universe as an emergent system, one of near infinite complexity born from a series of very simple foundational rules. This is not to say however that Perennians lack any sense of spirituality, they will occasionally initiate hallucinatory states both for recreation and as part of a search for meaning and they hold their ancestors in deep reverence, and are sometimes found praying to the earlier inheritors of their lineage for strength.
+Perennians as a culture hold strongly to values of rational atheism. The perceive the universe as an emergent system, one of near infinite complexity born from a series of very simple foundational rules. This is not to say however that Perennians lack any sense of spirituality, they will occasionally initiate hallucinatory states both for recreation and as part of a search for meaning and they hold their ancestors in deep reverence, and are sometimes found praying to the earlier inheritors of their lineage hoping to derive strength from them through their [Almanac](Perennian##Almanac).
 
 ## The Ephemeris
 The Ephemeris is a vast database containing the stored memories and genetic profiles of every member of the Perennial Sorority to have ever lived.
