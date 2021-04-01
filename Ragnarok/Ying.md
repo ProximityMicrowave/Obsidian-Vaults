@@ -9,7 +9,8 @@ Ying hold to a strong hereditary caste system. Their nation states ruled by aris
 ### Wealth
 Ying society is grossly unequal with the aristocracy living in extreme luxury while everyone else lives in abject poverty. Small tokens of wealth are handed down to servants and soldiers to maintain loyalty and further suppress the masses.
 ## Religion
-Nothing here yet.
+Most Ying believe that the [[Spires of the Gods]] were constructed by Ancient God's who after completing them left the mortal plain, but still communicate with them and protect them using the spires. This is about all that can be agreed upon. Some think that the Gods will return one day, others that the spires were built to contain a great evil within the planet, the many theories are numerous and diverse.
+
 ## History on Ragnarok
 Legend says the untold millennia ago the whole world was engulfed in flame, it is said that even the oceans burned. Their ancestors took shelter in the shadow of the [[Spires of the Gods]] and for a hundred days the sun filled the sky and never set. For another hundred days they remained trapped in the shadow of the the [[Spires of the Gods]] before finally being set free into a desolate land of ash and death.<br>
-In the many millennia since, the planet has healed and the Ying have built great kingdoms, subjugating or befriending the other races of Ragnarok. When the Perennians first arrived the Ying believed them to be the ancient gods returning, and were disappointed when told they were not. Some Ying however hold to this myth, believing the Perennians to be the ancient gods, and like any true god, are too modest to admit to their divinity.
+In the many millennia since, the planet has healed and the Ying have built great kingdoms, subjugating or befriending the other races of Ragnarok. When the Perennians first arrived the Ying believed them to be the ancient gods returning, and were disappointed when told they were not. Some Ying however hold to this myth, believing the Perennians to be the ancient gods, and like any true gods, are too modest to admit to their divinity.

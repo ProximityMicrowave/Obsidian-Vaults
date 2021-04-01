@@ -10,12 +10,12 @@ Each Perennian is of a lineage, when a Perennian is lost, dies, or exiled, she i
 Perennians are typically seen wearing form fitting conservative clothing, revealing very little skin. Their clothing is made from a nano-fabric which adjusts with temperature to maintain a comfortable internal temperature in a wide range of climates.
 
 ## Social Structure
-Perennians generally adhere to a flat social structure. Most decisions are made by consensus and during times of crisis temporary leadership is appointed and given only the necessary authority to carry out their directive.
+Perennians generally adhere to a flat social structure. Their elective body known as the Quarum uses a Fluid Democratic System where each member of the Sorority is allowed to vote on their own behalf or allowed to give their vote to a representative who votes on their behalf. If at any time a Sister should lose faith in her representative she may chose another, or she may simply chose to vote on her own behalf in a matter that is of particular meaning to her.
 
-The Ragnarok Chapter of the Perennian Sorority is currently being lead by a council of scientists, charged with overseeing the completion of the [[The Plan]].
+The Ragnarok Chapter of the Perennian Sorority is currently being led by a Quarum that varies in size between one hundred and one hundred twenty members, with the appointed leader of the Quarum being the Ecclesiarch.
 
 ### Role of Age
-Perennians are extremely long lived as a species, typically only dying due to extreme physical trauma. As a result it takes some time for young Perennian's to be given the full respect of adulthood. While perennians are considered physically mature by age twenty and able to live on their own by age thirty, they are typically not considered full adults until the age of five-hundred, before that time they are unofficially barred from positions of authority, and their voice will carry little weight among their people.
+Perennians are extremely long lived as a species, typically only dying due to extreme physical trauma, prior to the attack on [[Annwn]] the average age of death was ~86,000 years. As a result perennians take a rather long view on growing up, their early childhood is extended preventing the onset of puberty until the age of twenty-eight, and physical maturity until the age of fourty. However typically they are not considered full adults until Whitening (Referencing the graying of their hair) at around the age of five-hundred, before that time while there are no laws forbidding them from holding positions of authority, no perennian has ever held a position of authority prior to their Whitening. Until that time their voice among the Quorum also carries little weight.
 
 ### Wealth
 Perennians are an egalitarian post-scarcity society with no use for money. Large scale projects which require vast resources are voted on by the community or directed by emergency leadership.
