@@ -1,11 +1,12 @@
 # Perennian Sisterhood
-The Perennian Sisterhood, sometimes just called Perennian's for short, is a race of all female clones. Each of them have been genetically engineered to meet their peoples definition of perfection. They are among the most technologically advanced [Humans](Human) in the galaxy.
+The Perennian Sisterhood, sometimes just called Perennian's for short, is a race of all female clones. Each of them have been genetically engineered to meet their peoples definition of perfection. They are among the most technologically advanced [Humans](Baseline%20Human.md) in the galaxy.
 
 ## Appearance
-Perennians are all approximately six-feet three-inches tall. They keep a youthful appearance typically not appearing older than thirty. They are renowned throughout the galaxy for their beauty. Most have white hair due to age, however their natural hair color lingers for an extremely long time and though they of course have the technology to color their hair, colored hair is a strong indicator of youth, while white hair is considered dignified and a sign of true adulthood.
-
-Each Perennian is of a lineage, when a Perennian is lost, dies, or exiled, she is cloned and a repository of memories from their lineage known as an [Almanac](Perennian##Almanac) is passed on to the new custodian of the lineage.
-
+Perennians at first glace appear to be tall, young, beautiful baseline [humans](Baseline%20Human.md), however they have received extensive extensive genetic modifications making them at least as divergent as any other post-human species.
+### Reproduction
+Perennians are all born sterile and reproduce through the use of cloning and gestation chambers. Each Perennian is the custodian of a Lineage and is a perfect clone of the previous custodian.
+### Physical characteristics
+Due to extensive genetic engineering Perennian's appear as homo sapiens, however genetically they are at least as divergent as any other post-human species. Also due to genetic engineering they are extremely homogeneous. All perrenians will grow to a height of between 6'2" and 6'4 with an average height of 6'3". They are pale skinned and born with dark brown or black hair, which will turn white between the ages of four hundred ninety and five hundred ten. They possess incredible physical strength and endurance that betrays their feminine physiques. Most perrenians upon reaching physical maturity at age forty choose to receive several cybernetic augmentations, most notably to the eyes, lungs, and liver. However upgrades to the lungs, heart, and kidneys are also common.
 ### Fashion and Clothing
 Perennians are typically seen wearing form fitting conservative clothing, revealing very little skin. Their clothing is made from a nano-fabric which adjusts with temperature to maintain a comfortable internal temperature in a wide range of climates.
 
@@ -13,15 +14,17 @@ Perennians are typically seen wearing form fitting conservative clothing, reveal
 Perennians generally adhere to a flat social structure. Their elective body known as the Quarum uses a Fluid Democratic System where each member of the Sorority is allowed to vote on their own behalf or allowed to give their vote to a representative who votes on their behalf. If at any time a Sister should lose faith in her representative she may chose another, or she may simply chose to vote on her own behalf in a matter that is of particular meaning to her.
 
 The Ragnarok Chapter of the Perennian Sorority is currently being led by a Quarum that varies in size between one hundred and one hundred twenty members, with the appointed leader of the Quarum being the Ecclesiarch.
-
+### Naming Conventions
+All perennians have forename and lineage name. They are called by their lineage until reaching the age of maturity when they choose for themselves a forename. The forename is reserved for use with close acquaintances.
 ### Role of Age
 Perennians are extremely long lived as a species, typically only dying due to extreme physical trauma, prior to the attack on [[Annwn]] the average age of death was ~86,000 years. As a result perennians take a rather long view on growing up, their early childhood is extended preventing the onset of puberty until the age of twenty-eight, and physical maturity until the age of fourty. However typically they are not considered full adults until Whitening (Referencing the graying of their hair) at around the age of five-hundred, before that time while there are no laws forbidding them from holding positions of authority, no perennian has ever held a position of authority prior to their Whitening. Until that time their voice among the Quorum also carries little weight.
-
 ### Wealth
-Perennians are an egalitarian post-scarcity society with no use for money. Large scale projects which require vast resources are voted on by the community or directed by emergency leadership.
+Perennians are an egalitarian post-scarcity society with no use for money. Large scale projects which require vast resources are voted on by the Quarum.
 
 ## Religion
 Perennians as a culture hold strongly to values of rational atheism. The perceive the universe as an emergent system, one of near infinite complexity born from a series of very simple foundational rules. This is not to say however that Perennians lack any sense of spirituality, they will occasionally initiate hallucinatory states both for recreation and as part of a search for meaning and they hold their ancestors in deep reverence, and are sometimes found praying to the earlier inheritors of their lineage hoping to derive strength from them through their [Almanac](Perennian##Almanac).
+### Views on Death
+Perennians view life as the continuity of memories and death as the loss of those memories. Therefore so long as a copy of their Almanac is preserved they are immortal. While they do not welcome physical death leading to a temporary break in the continuity, memories and experiences are constantly being lost and so dying having ones memories preserved for a future incarnation has little difference from simply forgetting things with time.
 
 ## The Ephemeris
 The Ephemeris is a vast database containing the stored memories and genetic profiles of every member of the Perennial Sorority to have ever lived.

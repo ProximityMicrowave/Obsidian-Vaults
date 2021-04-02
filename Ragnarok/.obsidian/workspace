@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kira Cordelia.md",
-            "mode": "source"
+            "file": "Perennian.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kira Cordelia.md",
+                "file": "Perennian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Kira Cordelia.md",
     "Perennian.md",
+    "Human.md",
+    "humans.md",
+    "Kira Cordelia.md",
     "Inhabitants of Ragnarok.md",
     "Ying.md",
     "Kira & Korek Conversation.md",
-    "Human.md",
     "World of Ragnarok.md",
     "The Ephemeris.md",
-    "Untitled.md",
-    "inhabitants.md"
+    "Untitled.md"
   ]
 }

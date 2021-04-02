@@ -1,5 +1,5 @@
 # Inhabitants of Ragnarok
-- [[Human]]
+- [[Baseline Human]]
 	- [[Perennian]]
 		- [[Kira Cordelia]]
 		- [[Morgana Cordelia]]
