@@ -6,7 +6,6 @@
       {
         "id": "890f3c286f271ce5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -73,6 +72,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -96,16 +97,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "890f3c286f271ce5",
   "lastOpenFiles": [
     "Perennian.md",
-    "Baseline Human.md",
-    "Inhabitants of Ragnarok.md",
     "Major Galactic Organizations.md",
+    "Inhabitants of Ragnarok.md",
     "Commerce Guild.md",
+    "Antediluvian.md",
+    "Baseline Human.md",
     "Untitled.md",
     "Kira & Korek Conversation.md",
     "Ying.md",
-    "Kira Cordelia.md",
-    "Human.md"
+    "Kira Cordelia.md"
   ]
 }

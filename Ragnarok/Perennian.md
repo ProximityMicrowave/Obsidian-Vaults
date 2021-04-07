@@ -31,7 +31,7 @@ The Ephemeris is a vast database containing the stored memories and genetic prof
 ### Almanac
 Each living member of the Perennial Sorority is custodian to a memory storage device called an Almanac. The Almanac contains the complete life experiences of every member of that individuals lineage traced back to it's inception.
 ### Index
-Like an Almanac an Index is a memory storage device used by Perrenians to store a backup of their own personal memories, as well as Core Memories from the previous keepers of their Almanac.
+Like an Almanac an Index is a memory storage device used by Perrenians to store a backup of their own personal memories, as well as Core Memories from the previous custodians of their Almanac.
 ## History
 The Perennial Sorority was founded four-hundred thousand years ago by a religious sect of nuns on the Planet Anwnn. As their numbers began to dwindle from attrition, they turned to cloning to replenish their numbers. Eventually their home world and the origin of their religion was overtaken by turnover, leaving the remote colony as one of the last vestiges of that lost civilization. They acquired memory storage technology from intergalactic merchants and began constructing the Alminacs and what would later become The Ephemeris. As the millennia passed they moved away from their religious roots and began to focus on peaceful scientific and cultural research. Their civilization grew and prospered but they were determined to never make the mistakes of the empire they were once a part of. They maintained a strong isolationist policy and never succumbing to colonial ambitions.
 ### The Exodus
