@@ -1,0 +1,4 @@
+# The Commerce Guild
+Few over the last four million years of galactic history few civilizations have established themselves as permanent fixtures on the galactic stage. The Commerce Guild is one such civilization. Entirely Space-faring, the Commerce Guild makes up nearly ninety-percent of non-local trade in the Galaxy. 
+
+Established around the year two hundred thousand in order to maximize profits of long range trade routes by coordinating stops and sharing technological innovations that help facilitate trade. Over time the Commerce Guild established it's own culture, their access to the most advanced technology in the galaxy has also made them a powerful enemy to those who would threaten them. More than one civilization has met its end after making an enemy of the Commerce Guild.

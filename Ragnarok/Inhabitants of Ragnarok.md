@@ -6,7 +6,7 @@
 	- [[Ying]]
 	- [[Niuren]]
 		- [[Korek]]
-- [[Elder Things]]
-- [[Yiith]]
+- [[Antediluvian]]
+- [[Augur]]
 
 #Characters #Races

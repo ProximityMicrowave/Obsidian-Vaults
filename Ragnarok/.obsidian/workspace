@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kira & Korek Conversation.md",
+            "file": "Perennian.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kira & Korek Conversation.md",
+                "file": "Perennian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Perennian.md",
+    "Baseline Human.md",
+    "Inhabitants of Ragnarok.md",
+    "Major Galactic Organizations.md",
+    "Commerce Guild.md",
+    "Untitled.md",
     "Kira & Korek Conversation.md",
     "Ying.md",
-    "Inhabitants of Ragnarok.md",
-    "Perennian.md",
-    "Untitled.md",
     "Kira Cordelia.md",
-    "Human.md",
-    "humans.md",
-    "World of Ragnarok.md",
-    "The Ephemeris.md"
+    "Human.md"
   ]
 }
