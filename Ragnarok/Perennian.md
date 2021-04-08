@@ -1,5 +1,5 @@
-# Perennian Sorority
-The Perennian Sorority, sometimes just called Perennian's for short, is a race of all female clones. Each of them have been genetically engineered to meet their peoples definition of perfection. They are among the most technologically advanced [Humans](Baseline%20Human.md) in the galaxy.
+# Perennial Sorority
+The Perennial Sorority, sometimes just called Perennian's for short, is a race of all female clones. Each of them have been genetically engineered to meet their peoples definition of perfection. They are among the most technologically advanced [Humans](Baseline%20Human.md) in the galaxy.
 
 ## Appearance
 Perennians at first glace appear to be tall, young, beautiful [baseline humans](Baseline%20Human.md), however they have received extensive extensive genetic modifications making them at least as divergent as any other post-human species.
